@@ -2,8 +2,11 @@
   "name": "task-tracker-cli",
   "version": "1.0.0",
   "main": "task.js",
-   "bin": {
-    "task": "./task.js"
+  "bin": {
+    "task": "./task.js",
+    "activity": "./activity.js",
+    "expense": "./expense.js",
+    "game": "./game.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

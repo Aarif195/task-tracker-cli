@@ -1,0 +1,107 @@
+[
+  {
+    "id": 2,
+    "description": "Snacks",
+    "amount": 34,
+    "date": "2025-10-20T17:15:40.075Z",
+    "updatedAt": "2025-10-21T16:07:42.290Z"
+  },
+  {
+    "id": 3,
+    "description": "Apple",
+    "amount": 110,
+    "date": "2025-10-20T17:15:50.017Z",
+    "updatedAt": "2025-10-21T16:08:09.381Z"
+  },
+  {
+    "id": 4,
+    "description": "Lunch",
+    "amount": 44,
+    "date": "2025-10-21T16:11:58.957Z"
+  },
+  {
+    "id": 5,
+    "description": "Snacks",
+    "amount": 54,
+    "date": "2025-10-21T16:12:12.911Z"
+  },
+  {
+    "id": 6,
+    "description": "Snacks",
+    "amount": 54,
+    "date": "2025-10-21T16:12:15.583Z"
+  },
+  {
+    "id": 7,
+    "description": "Lunch",
+    "amount": 44,
+    "date": "2025-10-21T16:12:20.538Z"
+  },
+  {
+    "id": 8,
+    "description": "Lunch",
+    "amount": 44,
+    "date": "2025-10-21T16:12:23.223Z"
+  },
+  {
+    "id": 9,
+    "description": "Lunch",
+    "amount": 44,
+    "date": "2025-10-21T16:12:25.177Z"
+  },
+  {
+    "id": 10,
+    "description": "Snacks",
+    "amount": 54,
+    "date": "2025-10-21T16:12:30.045Z"
+  },
+  {
+    "id": 11,
+    "description": "Snacks",
+    "amount": 42,
+    "date": "2025-10-21T16:12:35.942Z"
+  },
+  {
+    "id": 12,
+    "description": "Snacks",
+    "amount": 21,
+    "date": "2025-10-21T16:12:40.321Z"
+  },
+  {
+    "id": 13,
+    "description": "Snacks",
+    "amount": 25,
+    "date": "2025-10-21T16:12:45.130Z"
+  },
+  {
+    "id": 14,
+    "description": "Dinner",
+    "amount": 50,
+    "date": "2025-10-21T16:13:04.285Z"
+  },
+  {
+    "id": 15,
+    "description": "Dinner",
+    "amount": 27,
+    "date": "2025-10-21T16:13:10.802Z"
+  },
+  {
+    "id": 16,
+    "description": "Dinner",
+    "amount": 71,
+    "date": "2025-10-21T16:13:14.630Z"
+  },
+  {
+    "id": 17,
+    "description": "Groceries",
+    "amount": 50,
+    "category": "Food",
+    "date": "2025-10-21T16:43:29.157Z"
+  },
+  {
+    "id": 18,
+    "description": "Lunch",
+    "amount": 20,
+    "date": "2025-10-21T16:44:27.553Z"
+  }
+]
